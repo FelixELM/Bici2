@@ -9,3 +9,14 @@ C:\Users\ITT\Documents\OOP\Bici\bin\Debug\netcoreapp2.1\Bici.dll
 C:\Users\ITT\Documents\OOP\Bici\bin\Debug\netcoreapp2.1\Bici.pdb
 C:\Users\ITT\Documents\OOP\Bici\obj\Debug\netcoreapp2.1\Bici.dll
 C:\Users\ITT\Documents\OOP\Bici\obj\Debug\netcoreapp2.1\Bici.pdb
+C:\Users\ITT\Documents\OOP\Bici2\obj\Debug\netcoreapp2.1\Bici.csprojAssemblyReference.cache
+C:\Users\ITT\Documents\OOP\Bici2\obj\Debug\netcoreapp2.1\Bici.csproj.CoreCompileInputs.cache
+C:\Users\ITT\Documents\OOP\Bici2\obj\Debug\netcoreapp2.1\Bici.AssemblyInfoInputs.cache
+C:\Users\ITT\Documents\OOP\Bici2\obj\Debug\netcoreapp2.1\Bici.AssemblyInfo.cs
+C:\Users\ITT\Documents\OOP\Bici2\obj\Debug\netcoreapp2.1\Bici.dll
+C:\Users\ITT\Documents\OOP\Bici2\obj\Debug\netcoreapp2.1\Bici.pdb
+C:\Users\ITT\Documents\OOP\Bici2\bin\Debug\netcoreapp2.1\Bici.deps.json
+C:\Users\ITT\Documents\OOP\Bici2\bin\Debug\netcoreapp2.1\Bici.runtimeconfig.json
+C:\Users\ITT\Documents\OOP\Bici2\bin\Debug\netcoreapp2.1\Bici.runtimeconfig.dev.json
+C:\Users\ITT\Documents\OOP\Bici2\bin\Debug\netcoreapp2.1\Bici.dll
+C:\Users\ITT\Documents\OOP\Bici2\bin\Debug\netcoreapp2.1\Bici.pdb

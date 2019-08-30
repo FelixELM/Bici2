@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ITT\\Documents\\OOP\\Bici\\Bici.csproj",
+      "projectUniqueName": "C:\\Users\\ITT\\Documents\\OOP\\Bici2\\Bici.csproj",
       "projectName": "Bici",
-      "projectPath": "C:\\Users\\ITT\\Documents\\OOP\\Bici\\Bici.csproj",
+      "projectPath": "C:\\Users\\ITT\\Documents\\OOP\\Bici2\\Bici.csproj",
       "packagesPath": "C:\\Users\\ITT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ITT\\Documents\\OOP\\Bici\\obj\\",
+      "outputPath": "C:\\Users\\ITT\\Documents\\OOP\\Bici2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

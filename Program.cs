@@ -7,8 +7,8 @@ namespace Bici
         static void Main(string[] args)
         {
         Bici bici= new Bici();
-        bici.init("Gallito", 13, 12);
-        bici.sube();
+        bici.init("Gallito", 8, 12);
+        //bici.sube();
         bici.print();
         }
     }
