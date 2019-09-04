@@ -9,7 +9,7 @@ namespace Bici
         {
         Bici bici1 = new Bici();
         bici1.init("Huffy", 8, 12);
-        //bici.sube();
+        //bici1.sube();
         bici1.print();
 
         Bici bici2 = new Bici();
@@ -24,7 +24,10 @@ namespace Bici
         bicis.Add(bici1);
         bicis.Add(bici2);
         bicis.Add(bici3);
-        //foreach 
+        foreach(Bici b in bicis)
+        {
+         b.print();
+        }
 
         Persona usuario = new Persona();
         usuario.init("Felix","felixenriquelm45@gmail.com");
@@ -36,6 +39,7 @@ namespace Bici
         {
             private string nombre;
             private string correo;
+            //private List<Bici> bicis;
 
             public void init(string n, string c)
             {
@@ -53,6 +57,7 @@ namespace Bici
         
         private string marca; private int current_velocity;
         private int velocities;
+        //private Persona dueño;
         public void print()
         {
              Console.WriteLine("Marca:{0}, Velocity:{1}", marca, current_velocity);
